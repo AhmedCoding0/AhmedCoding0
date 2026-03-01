@@ -1,58 +1,62 @@
-<h1 align="center">Ahmed Mohamed 👨‍💻</h1>
-<h3 align="center">C++ Developer | Aspiring Web Developer</h3>
+<h1 align="center">Hey 👋 I'm Ahmed Mohamed</h1>
+<h3 align="center">C++ Developer 💻 | Future Web Wizard 🌐🔥</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> •
-  <a href="mailto:YOUR-EMAIL">Email</a>
+  🚀 Turning Logic Into Reality  
+  💡 Problem Solver  
+  🌍 Building My Way Into Web Development
 </p>
 
 ---
 
-## 💼 Professional Summary
+<img align="right" width="380px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Detail-oriented C++ Developer with a strong foundation in object-oriented programming, algorithms, and problem solving.  
-Currently transitioning into Web Development with a focus on building scalable and user-friendly web applications.
+## 🧠 Who Am I?
 
-Passionate about writing clean code, learning modern technologies, and continuously improving technical skills.
+I'm a C++ Developer who loves logic, algorithms, and clean code.  
+Currently leveling up into the Web Development world 🌐  
 
----
-
-## 🚀 Technical Skills
-
-### 🧠 Core Programming
-- C++ (OOP, Data Structures, Algorithms)
-- Problem Solving
-- Logical Thinking
-
-### 🌐 Web Development
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Git & GitHub
+I don’t just write code…  
+I build, break, fix, and improve until it’s solid.  
 
 ---
 
-## 📌 Current Focus
+## ⚡ Tech Arsenal
 
-- Strengthening JavaScript fundamentals
-- Building real-world frontend projects
-- Learning modern web development practices
-- Preparing to expand into Backend Development
+💻 **C++** (OOP • Algorithms • Problem Solving)  
+🌐 **HTML5**  
+🎨 **CSS3**  
+⚡ **JavaScript**  
+🔧 **Git & GitHub**  
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Current Mission
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
+- 🔥 Master JavaScript deeply  
+- 🌍 Build real-world frontend projects  
+- 🧠 Strengthen problem solving daily  
+- ⚔️ Move toward Full Stack Development  
+
+---
+
+## 📊 GitHub Energy
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Vision
 
-To become a Professional Full Stack Web Developer and contribute to high-impact software projects in a collaborative environment.
+From C++ foundations 🏗️  
+To Full Stack domination 🌐🔥  
+
+I’m building my future one commit at a time.
 
 ---
 
-⭐ Committed to continuous learning and professional growth.
+⭐ Always learning.  
+⭐ Always improving.  
+⭐ Always shipping.
