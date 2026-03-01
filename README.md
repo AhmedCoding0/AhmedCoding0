@@ -1,24 +1,21 @@
 <div align="center">
 
-# 🧠 Ahmed Mohamed
+# 🎮 Ahmed Mohamed
 
-### C++ Algorithmic Thinker | Web Developer in Progress
+### 💻 C++ Main | 🌐 Web Dev Side Quest
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00C896&center=true&vCenter=true&lines=Data+Structures+%26+Algorithms;OOP+Specialist;Problem+Solver;Future+Full+Stack+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?color=39FF14&center=true&vCenter=true&lines=Leveling+Up+Every+Day;C%2B%2B+Player;Web+Dev+In+Progress;Grinding+Hard+Mode" />
 
 </div>
 
 ---
 
-## 🧩 Engineering Mindset
+## 🕹 Player Stats
 
 ```cpp
-class Engineer {
-private:
-    string language = "C++";
-    string strength = "Algorithms & Problem Solving";
-    string currentLevel = "Web Development Transition";
-
-public:
-    void think() { analyze(); optimize(); implement(); }
+struct Player {
+    string name = "Ahmed Mohamed";
+    string classType = "C++ Developer";
+    int problemSolvingXP = 9999;
+    string currentQuest = "Master Web Development";
 };
