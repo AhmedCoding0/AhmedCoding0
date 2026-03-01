@@ -2,8 +2,8 @@
 <h3 align="center">C++ Developer 💻 | Future Web Wizard 🌐🔥</h3>
 
 <p align="center">
-  🚀 Turning Logic Into Reality  
-  💡 Problem Solver  
+  🚀 Turning Logic Into Reality<br>
+  💡 Problem Solver<br>
   🌍 Building My Way Into Web Development
 </p>
 
@@ -42,9 +42,15 @@ I build, break, fix, and improve until it’s solid.
 
 ## 📊 GitHub Energy
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" width="48%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR-WAKATIME-USERNAME&theme=radical" width="48%" />
+</p>
 
 ---
 
