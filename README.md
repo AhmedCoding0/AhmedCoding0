@@ -1,21 +1,24 @@
 <div align="center">
 
-# ⚫ Ahmed Mohamed
+# 🧠 Ahmed Mohamed
 
-### 💻 C++ Developer | 🌐 Future Full Stack Engineer
+### C++ Algorithmic Thinker | Web Developer in Progress
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Problem+Solver;C%2B%2B+Developer;Web+Developer+in+Progress;Always+Learning..." />
+<img src="https://readme-typing-svg.herokuapp.com?color=00C896&center=true&vCenter=true&lines=Data+Structures+%26+Algorithms;OOP+Specialist;Problem+Solver;Future+Full+Stack+Engineer" />
 
 </div>
 
 ---
 
-## 🕶 About Me
+## 🧩 Engineering Mindset
 
 ```cpp
-class Ahmed {
+class Engineer {
+private:
+    string language = "C++";
+    string strength = "Algorithms & Problem Solving";
+    string currentLevel = "Web Development Transition";
+
 public:
-    string role = "C++ Developer";
-    string mission = "Master Web Development";
-    string mindset = "Build. Break. Fix. Improve.";
+    void think() { analyze(); optimize(); implement(); }
 };
