@@ -1,9 +1,4 @@
 <h1 align="center">Hey 👋 I'm Ahmed Mohamed</h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 <h3 align="center">C++ Developer 💻 | Future Web Wizard 🌐🔥</h3>
 
 <p align="center">
