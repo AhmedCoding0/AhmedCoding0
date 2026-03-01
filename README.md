@@ -43,13 +43,7 @@ I build, break, fix, and improve until it’s solid.
 ## 📊 GitHub Energy
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR-WAKATIME-USERNAME&theme=radical" width="48%" />
+  <img src="https://github.com/ahmed-mohamed-repo/an_infographic_style_digital_graphic_titled_ahmed.png" width="90%" alt="Ahmed Adel's GitHub Stats">
 </p>
 
 ---
