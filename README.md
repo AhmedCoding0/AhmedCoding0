@@ -2,8 +2,8 @@
 <h3 align="center">C++ Developer 💻 | Future Web Wizard 🌐🔥</h3>
 
 <p align="center">
-  🚀 Turning Logic Into Reality<br>
-  💡 Problem Solver<br>
+  🚀 Turning Logic Into Reality  
+  💡 Problem Solver  
   🌍 Building My Way Into Web Development
 </p>
 
@@ -42,9 +42,9 @@ I build, break, fix, and improve until it’s solid.
 
 ## 📊 GitHub Energy
 
-<p align="center">
-  <img src="https://github.com/ahmed-mohamed-repo/an_infographic_style_digital_graphic_titled_ahmed.png" width="90%" alt="Ahmed Adel's GitHub Stats">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
 
 ---
 
