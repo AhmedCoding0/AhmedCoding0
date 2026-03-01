@@ -1,62 +1,21 @@
-<h1 align="center">Hey 👋 I'm Ahmed Mohamed</h1>
-<h3 align="center">C++ Developer 💻 | Future Web Wizard 🌐🔥</h3>
+<div align="center">
 
-<p align="center">
-  🚀 Turning Logic Into Reality  
-  💡 Problem Solver  
-  🌍 Building My Way Into Web Development
-</p>
+# ⚫ Ahmed Mohamed
 
----
+### 💻 C++ Developer | 🌐 Future Full Stack Engineer
 
-<img align="right" width="380px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Problem+Solver;C%2B%2B+Developer;Web+Developer+in+Progress;Always+Learning..." />
 
-## 🧠 Who Am I?
-
-I'm a C++ Developer who loves logic, algorithms, and clean code.  
-Currently leveling up into the Web Development world 🌐  
-
-I don’t just write code…  
-I build, break, fix, and improve until it’s solid.  
+</div>
 
 ---
 
-## ⚡ Tech Arsenal
+## 🕶 About Me
 
-💻 **C++** (OOP • Algorithms • Problem Solving)  
-🌐 **HTML5**  
-🎨 **CSS3**  
-⚡ **JavaScript**  
-🔧 **Git & GitHub**  
-
----
-
-## 🚀 Current Mission
-
-- 🔥 Master JavaScript deeply  
-- 🌍 Build real-world frontend projects  
-- 🧠 Strengthen problem solving daily  
-- ⚔️ Move toward Full Stack Development  
-
----
-
-## 📊 GitHub Energy
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
-
----
-
-## 🎯 Vision
-
-From C++ foundations 🏗️  
-To Full Stack domination 🌐🔥  
-
-I’m building my future one commit at a time.
-
----
-
-⭐ Always learning.  
-⭐ Always improving.  
-⭐ Always shipping.
+```cpp
+class Ahmed {
+public:
+    string role = "C++ Developer";
+    string mission = "Master Web Development";
+    string mindset = "Build. Break. Fix. Improve.";
+};
